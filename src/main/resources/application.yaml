@@ -1,0 +1,21 @@
+
+sdk:
+  config:
+    management:
+      access-key-id: your-key-id
+      access-key-secret: your-key-secret
+    authentication:
+      app-id: your-app-id
+      app-secret: your-app-secret
+      app-host: "https://your-app-host.authing.cn"
+
+spring:
+  profiles:
+    active: local
+
+
+
+
+
+
+
